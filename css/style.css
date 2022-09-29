@@ -109,4 +109,8 @@ h1{
     .left{
         margin-bottom: 50px;
     }
+    .game{
+        width: 400px;
+        height: 400px;
+    }
 }
